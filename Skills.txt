@@ -2,6 +2,8 @@ Hard Core Skills: ) -
 
 1. Data Structures (for logic building to crack coding rounds)
 2. Web development (for Projects, to be added in Resume)
+3. Version Control Git & GitHub
+4. Strong LinkedIn Profile 
 
 Soft Skiils: ) - 
 
@@ -9,3 +11,4 @@ Soft Skiils: ) -
 2. Leadership Skills
 3. Problem Solving Skills 
 4. Analytical Skills
+5. Public Speaking 
