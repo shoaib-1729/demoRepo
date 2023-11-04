@@ -1,10 +1,11 @@
 Hard Core Skills: ) - 
 
-1. Data Structures (for logic building to crack coding rounds)
-2. Web development (for Projects, to be added in Resume)
+1. Data Structures 
+2. Web development 
 
 Soft Skiils: ) - 
 
 1. Communication Skills 
 2. Leadership Skills
 3. Problem Solving Skills 
+4. Analytical Skills
