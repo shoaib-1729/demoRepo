@@ -4,6 +4,7 @@ Hard Core Skills: ) -
 2. Web development (for Projects, to be added in Resume)
 3. Version Control Git & GitHub
 4. Strong LinkedIn Profile 
+5. Make habit of Code Reading
 
 Soft Skiils: ) - 
 
